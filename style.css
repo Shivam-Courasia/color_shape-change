@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .shape {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db; /* Initial color */
+    margin: 10px;
+    display: inline-block;
+  }
